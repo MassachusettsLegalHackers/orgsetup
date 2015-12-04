@@ -4,4 +4,4 @@ generic reference implementation for opencosent best practices
 
   Star MassachusettsLegalHackers.github.io/orgsetup/
 
-See: http://openconsent.net
+http://massachusettslegalhackers.github.io/orgsetup/
